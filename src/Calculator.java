@@ -1,4 +1,5 @@
 import java.util.Scanner;
+//Github demonstration
 public class Calculator {
  public static void addition() {
 		Scanner sc=new Scanner(System.in);
